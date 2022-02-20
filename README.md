@@ -7,7 +7,7 @@ This project aims to improve netizens awareness and help them avoid becoming vic
 
 <b>DISCLAIMER</b>  
 
-The CryptoFeed is generated using an AI classification engine. The feed goes through minimal manual curation before is published and as such it can contain legitimate crypto products and services. Krdinal assumes no responsibility on how this feed. The feed is provided AS-IS without any warranties. Users should not expect this feed to be provided AS-IS in perpetuity as it can be changed or deleted without prior warning.
+The CryptoFeed is generated using an AI classification engine. The feed goes through minimal manual curation before is published and as such it can contain legitimate crypto products and services. The feed is provided AS-IS without any warranties. Users should not expect this feed to be provided AS-IS in perpetuity as it can be changed or deleted without prior warning.
 
 Released under MIT License.
 
