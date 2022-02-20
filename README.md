@@ -1,4 +1,4 @@
-# CryptoFeed
+# Krdinal CryptoFeed
 
 A minimally curated daily feed of websites related to blockchain and cryptocurrencies.
 Useful for discovering unsafe and potentially dangerous websites (scams, phishing, fraud). 
