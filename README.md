@@ -11,3 +11,6 @@ The CryptoFeed is generated using an AI classification engine. The feed goes thr
 
 Released under MIT License.
 
+
+<b>Keywords</b>
+altcoin, bank, blockchain, cryptocurrency, dao, defi, nft, web3
